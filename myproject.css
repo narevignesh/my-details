@@ -1,0 +1,101 @@
+.image{
+    height: 10vh;
+}
+.body{
+    height: 100%;
+    width: 100%;
+
+    background-image: url('https://res.cloudinary.com/dlqcnkjjc/image/upload/v1708753216/grunge-black-concrete-textured-background_53876-124541_rnvxly.avif');
+    background-size: cover;
+}
+.nav{
+    color: white;
+    padding: 20px;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+}
+.nav:hover{
+    color: green;
+}
+.navbar-nav{
+    margin-left: 1100px;
+}
+.boxabc  {
+    height: 100px;
+}
+.boxcba  {
+    height: 100px;
+    color: white;
+
+}
+.agee{
+    height: 50vh;
+}
+.para{
+    padding-top: 1px;
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: large;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    
+}
+.name{
+    text-align: center;
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-top: 80px;
+    
+
+}
+.about{
+    margin-top: 400px;
+}
+.abt{
+    text-align: center;
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+}
+.tab{
+    padding-top: 1px;
+    color: white;
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: large;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+.hgf{
+    text-align: center;
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    margin-top: 20px;
+}
+.num{
+    padding-top: 1px;
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: large;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: white;  
+}
+.aer{
+    height: 6vh;
+    margin-left: 622px;
+}
